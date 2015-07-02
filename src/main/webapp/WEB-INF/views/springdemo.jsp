@@ -3,15 +3,12 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-    <title>springdemo</title>
+    <title>spring demo</title>
 </head>
 <body>
-
-spring app demo
-
-<br>
-    <a href="springdemo?name=Frodo">hello</a>
-</br>
-
+<h2>spring demo</h2>
+<h4>
+    ${message} ${name}
+</h4>
 </body>
 </html>
